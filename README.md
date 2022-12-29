@@ -1,2 +1,3 @@
 # Website Jajanan Nusantara
-membuat website kuliner
+- Andika Muhammad Fatiha (714220063)
+- Alfian Benardo Rusli

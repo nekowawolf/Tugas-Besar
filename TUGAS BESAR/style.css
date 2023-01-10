@@ -1,0 +1,10 @@
+.card-text {
+    font-family: arial;
+  font-size: 20px;
+  margin: 25px;
+  width: 1050px;
+  height: 220px;
+}
+.card-title{
+   text-align: center;
+}
